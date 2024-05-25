@@ -1,4 +1,3 @@
-# Hubness_Precision_Recall
-
+# Hubness Precision Recall For Generative Image
 
 TBD
